@@ -1,0 +1,8 @@
+<Bindings>
+	<Binding name="Take Info Screenshot" header="TALIAIVO_HISTORY">
+		TH_ScreenshotFrame:QueueScreenshot()
+	</Binding>
+	<Binding name="Toggle Info Screen">
+		TH_ScreenshotFrame:Toggle()
+	</Binding>
+</Bindings>

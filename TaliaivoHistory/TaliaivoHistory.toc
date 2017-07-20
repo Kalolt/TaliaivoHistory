@@ -1,0 +1,6 @@
+## Interface: 20400
+## Title: TaliaivoHistory
+## Notes: Takes a commemorative screenshot when you level up.
+## Author: Taliaivo
+TaliaivoHistory.xml
+TaliaivoHistory.lua
